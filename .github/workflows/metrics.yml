@@ -21,7 +21,7 @@ jobs:
 
           # options
           template: classic
-          config_timezone: America/Los_Angeles
+          config_timezone: Europe/Berlin
           plugin_traffic: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
